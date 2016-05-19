@@ -29,8 +29,11 @@ What I sell & use to generate revenue from
     * Legal, Taxation, Transaction considerations
 
 * Promotion cost 
+    * Example: Work for free in return for publicity, marketing, ..
 
 * Access to my privacy, opinion, reputation
+    * Example: Provide my reputation, opinion in public
+    * Example: Disclose or permit use of private information
 
 ## My Place
 
@@ -46,4 +49,5 @@ This is anything to do with communication about what’s available and why peopl
 
 # References
 
-
+> The Great Fragmentation: And Why the Future of All Business is Small
+>> Steve Sammartino
