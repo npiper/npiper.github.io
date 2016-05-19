@@ -7,11 +7,11 @@ categories: marketing networking career
 # Values & Purpose
 
 
-# My Place
+### My Place
 
-# My Pitch
+### My Pitch
 
-# My Product
+### My Product
 
 ## References
 
