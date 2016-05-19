@@ -23,10 +23,10 @@ What I sell & use to generate revenue from
 ## My Price
 
 * Renumeration, Dollar value
-** Supply, Demand equations (Peak, Off-Peak?, Penalties, Discounts?)
-** Finance / Cashflow / Terms of payment
-** Payment options, channels
-** Legal, Taxation, Transaction considerations
+-- Supply, Demand equations (Peak, Off-Peak?, Penalties, Discounts?)
+-- Finance / Cashflow / Terms of payment
+-- Payment options, channels
+-- Legal, Taxation, Transaction considerations
 
 * Promotion cost 
 
