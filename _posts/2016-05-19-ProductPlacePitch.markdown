@@ -23,6 +23,8 @@ Short, Medium & Long term goals supporting my vision, purpose
 ## My Product
 
 What I sell & use to generate revenue from
+* Packages / Bundles
+* Serivce Offerings, Products..
 
 ## My Price
 
