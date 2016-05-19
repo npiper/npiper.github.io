@@ -54,5 +54,6 @@ This is anything to do with communication about what’s available and why peopl
 # References
 
 [The Pixar Pitch](http://www.workingdifferently.org/working-differently-blog/the-pixar-pitch-telling-your-story-crisply-and-with-clarity-in-order-to-compel-action)
+
 > The Great Fragmentation: And Why the Future of All Business is Small
 >> Steve Sammartino
