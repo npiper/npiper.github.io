@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "The Philosophical basis of Agile -- & it's opponents"
+date:   2016-05-20 01:19:39 +1000
+categories: agile management philosophy
+
+---
+
 # Concept
 
 Illustrate to the technical community the underpinning philosophical basis of Agile & the lean enterprise.
