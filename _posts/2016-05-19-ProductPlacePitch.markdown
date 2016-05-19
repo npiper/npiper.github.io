@@ -7,6 +7,16 @@ categories: marketing networking career
 # Values & Purpose
 
 
+# Objectives
+
+# Strategies
+
+Transform myself to de-risk my career and income
+
+```
+projecteer: a person who works independently for others on projects
+```
+
 ## My Place
 
 ## My Pitch
