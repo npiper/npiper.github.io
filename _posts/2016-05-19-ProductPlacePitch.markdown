@@ -6,8 +6,12 @@ categories: marketing networking career
 ---
 # Values & Purpose
 
+What are my values, vision & purpose for myself?
+How does the way I derive an income / enjoyment support & relate to this?
 
 # Objectives
+
+Short, Medium & Long term goals supporting my vision, purpose
 
 # Strategies
 
@@ -45,9 +49,10 @@ This tells us where we can get the product and how it’s delivered to us, both 
 This is anything to do with communication about what’s available and why people may want it; for example, the tools of information exchange and media among people, brands, organisations and governments.
 
 
-# Pitch
+# The Pitch
 
 # References
 
+[The Pixar Pitch](http://www.workingdifferently.org/working-differently-blog/the-pixar-pitch-telling-your-story-crisply-and-with-clarity-in-order-to-compel-action)
 > The Great Fragmentation: And Why the Future of All Business is Small
 >> Steve Sammartino
