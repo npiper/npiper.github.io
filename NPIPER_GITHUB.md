@@ -18,9 +18,17 @@ https://jekyllrb.com/docs/usage/
 
 `jekyll serve` at http://localhost:4000/
 
+'bundle exec jekyll serve --watch`
+
 # Add a Post
 
 Create a markdown file under the _posts folder
+
+# Deploy / Build on Heroku
+
+https://www.jamesward.com/2014/09/24/jekyll-on-heroku
+
+
 
 # Password Protect??
 
